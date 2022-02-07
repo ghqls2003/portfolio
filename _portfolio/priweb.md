@@ -11,7 +11,6 @@ image: assets/img/portfolio/pri/springhome.PNG #main image, can be a link or a f
 
 ---
 #### Used
-
 Html
 {:.badge.bg-warning}
 Css
@@ -29,8 +28,7 @@ Bootstrap
 
 <br>
 
-##### dependencies
-
+#### dependencies
 tiles 3.0.8<br>
 spring-webmvc<br>
 spring-jdbc / connector
@@ -38,7 +36,6 @@ spring-jdbc / connector
 <br>
 
 #### 작업 기간
-
 <span>2021.10.25 ~ 2021.11.15</span>
 {:.badge.bg-warning}
 총 22일 소요(jsp구현 + spring 전환)
@@ -49,7 +46,6 @@ spring-jdbc / connector
 <br>
 
 #### 데이터베이스 구성
-
 board
 {:.badge.bg-warning}
 comment
@@ -60,25 +56,18 @@ member
 <br>
 
 #### 페이지 구성
-
 ##### 📑 메인
-
 <img src="assets/img/portfolio/pri/springhome.PNG" style="width:100%" />
-
 <br>
 
 ##### 📚 카테고리
-
 <img src="assets/img/portfolio/pri/springcate.png" style="width:100%" />
-
 <br>
 
 ##### ✒️ 게시판&댓글
-
 <img src="assets/img/portfolio/pri/springbo.png" style="width:100%" />
 
 ##### 구분
-
 <div class="mb-3">
 
 <span class="badge bg-danger" style="color:white">

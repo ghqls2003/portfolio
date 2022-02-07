@@ -56,11 +56,9 @@ notice
 <br>
 
 #### 페이지 구성
-
 <img src="assets/img/portfolio/academy/Team.png" style="width:100%" />
 
 #### 구분
-
 <div class="mb-3">
 
 <span class="badge bg-danger" style="color:white">
