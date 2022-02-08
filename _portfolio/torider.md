@@ -60,7 +60,6 @@ infocomment
 {:.badge.bg-warning}
 member
 {:.badge.bg-warning}
-`seq 사용으로 table 간소화 준비`
 
 <br>
 

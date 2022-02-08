@@ -29,7 +29,7 @@ en: &DEFAULT_EN
       - title: "Education"
         desc: "진주 중학교(2004~2006)<br>
               진주 고등학교(2007~2009)<br>
-              대구 대학교(경산)(2010~2017)<br>
+              대구 대학교(사회복지학)(2010~2017)<br>
               대구 코리아IT아카데미(2021.04~08)"
         icon: assets/img/who/stu.jpg
       - title: "Career"
@@ -57,29 +57,28 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Birth"
-        year: "1991.12"
-        image: assets/img/timeline/01.jpg
-      - title: "Daegu University Admission"
-        year: "2010.03"
-        image: assets/img/timeline/02.jpg
-      - title: "Military"
-        year: "2011.03 ~ 2012.12"
-        image: assets/img/timeline/03.jpg
-      - title: "Daegu University Graduated"
-        year: "2017.02"
-        image: assets/img/timeline/04.jpg
-      - title: "Social Worker"
-        year: "2017.3 ~ 2020.12"
-        image: assets/img/timeline/05.jpg
       - title: "New Challenge"
         year: "2021.4 ~"
         desc: "가치의 성장을 위한 도전"
         image: assets/img/timeline/06.jpg
-        alt:
+      - title: "Social Worker"
+        year: "2017.3 ~ 2020.12"
+        image: assets/img/timeline/05.jpg
+      - title: "Daegu University Graduated"
+        year: "2017.02"
+        image: assets/img/timeline/04.jpg
+      - title: "Military"
+        year: "2011.03 ~ 2012.12"
+        image: assets/img/timeline/03.jpg
+      - title: "Daegu University Admission"
+        year: "2010.03"
+        image: assets/img/timeline/02.jpg
+      - title: "Birth"
+        year: "1991.12"
+        image: assets/img/timeline/01.jpg
         # enforce the alignment
         align: right
-    end: "Be Part <br> of My <br> Story!"
+    start: "Be Part <br> of My <br> Story!"
 
   portfolio:
     title: "Portfolio"

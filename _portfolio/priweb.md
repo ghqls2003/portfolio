@@ -89,7 +89,7 @@ A
 
 메인페이지 <span class="badge bg-primary" style="color:white">A</span><br>
 카테고리 <span class="badge bg-info" style="color:white">U</span><br>
-게시글 `( CRUD )` <span class="badge bg-info" style="color:white">U</span>
+게시글 `( CRUD )` <span class="badge bg-info" style="color:white">U</span><br>
 댓글 `( CRUD )` <span class="badge bg-info" style="color:white">U</span>
 
 {:.list-inline} 
