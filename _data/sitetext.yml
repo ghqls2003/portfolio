@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome! Ryong Portfolio
+    title: Welcome!
     text: Challenge + Creative + Effort + Tenacity<br> = Ryong
     button: Who Are You?
     buttonlink: "#who"
@@ -25,10 +25,9 @@ en: &DEFAULT_EN
         desc: "1991.12.05(+)/10.30(-)<br>
               Email : ghqls2003@naver.com<br>
               Phone : 010-5251-3555<br>"
-        icon: assets/img/who/me.jpg
+        icon: assets/img/who/me2.jpg
       - title: "Education"
-        desc: "진주 중학교(2004~2006)<br>
-              진주 고등학교(2007~2009)<br>
+        desc: "진주 고등학교(2007~2009)<br>
               대구 대학교(사회복지학)(2010~2017)<br>
               대구 코리아IT아카데미(2021.04~08)"
         icon: assets/img/who/stu.jpg
@@ -106,7 +105,6 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://www.youtube.com/channel/UCT2zFYD1oMQeH7GHv8gy4Sw
         icon: "fab fa-youtube"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+     
 en-US:
   <<: *DEFAULT_EN
